@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import Search from './components/Search';
+import Search from './components/searchbar';
 import EmployeeTable from './components/EmployeeTable';
 
 function App() {
@@ -14,3 +14,4 @@ function App() {
 }
 
 export default App;
+
