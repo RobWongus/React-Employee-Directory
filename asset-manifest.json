@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/js/main.acc1a196.chunk.js",
+    "main.js.map": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/js/main.acc1a196.chunk.js.map",
+    "runtime-main.js": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/js/runtime-main.c9685a07.js",
+    "runtime-main.js.map": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/js/runtime-main.c9685a07.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6a53054f.chunk.js": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/js/2.6a53054f.chunk.js",
+    "static/js/2.6a53054f.chunk.js.map": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/js/2.6a53054f.chunk.js.map",
+    "index.html": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/index.html",
+    "precache-manifest.8165a6737d212e5edd035b92b75c0bc5.js": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/precache-manifest.8165a6737d212e5edd035b92b75c0bc5.js",
+    "service-worker.js": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6a53054f.chunk.js.LICENSE.txt": "/git@github.com:RobWongus/homework19reactemployeedirectory.git/static/js/2.6a53054f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9685a07.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6a53054f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.acc1a196.chunk.js"
+  ]
+}
