@@ -1,14 +1,14 @@
 import React from 'react';
 import Table from 'react-bootstrap/Table'
 
+
 function EmployeeTable(props) {
-//   const { products } = props;
+
     return (
         <div>
            <Table className= "tableEmployee" striped bordered hover variant="dark">
   <thead>
     <tr>
-      
       <th>Name</th>
       <th>Email</th>
       <th>Phone Number</th>
@@ -17,10 +17,9 @@ function EmployeeTable(props) {
   </thead>
   
   <tbody className="">
-    {/* {products.map(product =>( */}
-    <div>
+    
+    
     <tr> 
-      {/* key={product.id}> */}
       <td>Mark Bunch</td>
       <td>mark@markymark.com</td>
       <td>617-922-8810</td>
@@ -45,7 +44,7 @@ function EmployeeTable(props) {
       <td>05/01/1975</td>
     </tr>
     
-    </div>
+    
   </tbody>
 </Table>
         </div>
@@ -53,3 +52,6 @@ function EmployeeTable(props) {
     
 }
 export default EmployeeTable
+
+
+

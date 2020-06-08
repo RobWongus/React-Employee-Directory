@@ -10,7 +10,7 @@ class Search extends Component {
         placeholder: ""
     };
 
-    // searchMovies = 
+    
 
     handleInputChange = event => {
         let value = event.target.value;
