@@ -3,7 +3,7 @@ import Jumbotron from 'react-bootstrap/Jumbotron'
 import Container from 'react-bootstrap/Container'
 
 
-export default function Navbar(props) {
+function Navbar(props) {
     return (
         <div>
            <Jumbotron fluid>
@@ -14,8 +14,8 @@ export default function Navbar(props) {
            </Jumbotron>
         </div>
     )
-
-
 }
+
+export default Navbar;
 
   

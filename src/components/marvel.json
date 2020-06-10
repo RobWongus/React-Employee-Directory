@@ -1,0 +1,35 @@
+[
+    {
+        "key": 1,
+        "first": "Marky",
+        "last": "Bunch",
+        "email": "mark@markymark.com",
+        "phone": "617-922-8810",
+        "dob":"07-26-1968"
+    },
+    {
+        "key": 2,
+        "first": "James",
+        "last": "Howlett",
+        "email": "weaponx@alphaflight.ca",
+        "phone": "416-681-3719",
+        "dob":"10-01-1880"
+    },
+    {
+        "key": 3,
+        "first": "Nathan",
+        "last": "Summers",
+        "email": "bodyslidetohq@xforce.com",
+        "phone": "813-735-9173",
+        "dob":"01-18-2045"
+    },
+    {
+        "key": 4,
+        "first": "Piotr",
+        "last": "Rasputin",
+        "email": "insovietrussia@yakov.com",
+        "phone": "7-940-318-65-48",
+        "dob":"05-01-1975"
+    }
+
+]
