@@ -16,7 +16,7 @@ React Employee Directory
 
 Create a employee directory with React. I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
-##Installation
+## Installation
 
 Created with React
 npm install:
@@ -27,24 +27,24 @@ gh-pages
 
 
 
-##Tests
+## Tests
 
 none
 
-##Useage
+## Useage
 Create a directory that with the ability to search employees. 
 
-##Contributors
+## Contributors
 
 none
 
-##Questions
+## Questions
 none
 
-##License
+## License
 
 [![GitHub license](https://img.shields.io/github/license/RobWongus/React-Employee-Directory)](https://github.com/RobWongus/React-Employee-Directory/blob/master/LICENSE)
 
-##E-Mail
+## E-Mail
 
 RobWongus@gmail.com
