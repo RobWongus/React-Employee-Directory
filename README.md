@@ -42,7 +42,7 @@ none
 none
 
 ##License
-MIT
+/github/license/:user/:repo
 
 ##E-Mail
 
