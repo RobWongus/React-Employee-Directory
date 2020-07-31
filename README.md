@@ -14,8 +14,6 @@ React Employee Directory
 
 ## Description
 
-
-
 Create a employee directory with React. I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
 ##Installation
@@ -48,4 +46,4 @@ MIT
 
 ##E-Mail
 
-Rob_Wo@yahoo.com
+RobWongus@gmail.com
