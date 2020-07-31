@@ -42,6 +42,7 @@ none
 none
 
 ##License
+
 [![GitHub license](https://img.shields.io/github/license/RobWongus/React-Employee-Directory)](https://github.com/RobWongus/React-Employee-Directory/blob/master/LICENSE)
 
 ##E-Mail
